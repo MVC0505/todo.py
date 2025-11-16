@@ -2,30 +2,30 @@ This is a simple command-line To-Do List application written in Python. It allow
 
 Features
 
-  Add new tasks
+  - Add new tasks
 
-  Remove existing tasks
+  - Remove existing tasks
 
-  View all tasks
+  - View all tasks
 
-  Persistent storage using a text file
+  - Persistent storage using a text file
 
 
 How It Works
 
-  Tasks are stored in tasks.txt
+  - Tasks are stored in tasks.txt
 
-  The program loads tasks when it starts
+  - The program loads tasks when it starts
 
-  Any changes (add/remove) are saved automatically
+  - Any changes (add/remove) are saved automatically
 
 
 How to Run
 
-  Make sure Python is installed
+  - Make sure Python is installed
 
-  Save the script as todo.py
+  - Save the script as todo.py
 
-  Run the program using:
+  - Run the program using:
 
-    python todo.py
+        python todo.py
